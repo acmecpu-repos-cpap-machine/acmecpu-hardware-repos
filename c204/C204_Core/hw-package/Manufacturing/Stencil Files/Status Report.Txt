@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Control_Board_Model_C204.PrjPcb]
+   Generated File[Control_Board_Model_C204.GTP]
+   Generated File[Control_Board_Model_C204.GBP]
+   Generated File[Control_Board_Model_C204.RUL]
+   Generated File[Control_Board_Model_C204.EXTREP]
+   Generated File[Control_Board_Model_C204.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 15:11:56 On 28.11.2021

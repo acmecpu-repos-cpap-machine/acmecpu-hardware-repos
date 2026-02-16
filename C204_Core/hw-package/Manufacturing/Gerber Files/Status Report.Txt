@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Control_Board_Model_C204.PrjPcb]
+   Generated File[Control_Board_Model_C204-RoundHoles.TXT]
+   Generated File[Control_Board_Model_C204-SlotHoles.TXT]
+   Generated File[Control_Board_Model_C204-RoundHoles.TX1]
+   Generated File[Control_Board_Model_C204-RoundHoles.TX2]
+   Generated File[Control_Board_Model_C204.LDP]
+   Generated File[Control_Board_Model_C204.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 15:10:20 On 28.11.2021

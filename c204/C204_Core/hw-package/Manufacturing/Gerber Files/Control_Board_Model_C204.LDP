@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: D:\Work\Altium Designer\C204\C204 Core\hardware-design\Control_Board_Model_C204.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=control_board_model_c204-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=control_board_model_c204-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl
+LayersSetName=1-Top_2-GND_Blind_Vias|DrillFile=control_board_model_c204-roundholes.tx1|DrillLayers=gtl,g1
+LayersSetName=7-GND_8-Bottom_Blind_Vias|DrillFile=control_board_model_c204-roundholes.tx2|DrillLayers=g6,gbl

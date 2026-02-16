@@ -1,0 +1,42 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Control_Board_Model_C204.PcbDoc   28.11.2021  15:10:19
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : 1-Top to 8-Bottom
+ASCII RoundHoles File : Control_Board_Model_C204-RoundHoles.TXT
+ASCII SlotHoles File : Control_Board_Model_C204-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             333       PTH        0.00mm (0.00inch)
+T2      0.25mm (10mil)                                            Round             113       PTH        0.00mm (0.00inch)
+T3      0.3mm (12mil)                                             Round             236       PTH        0.00mm (0.00inch)
+T4      0.6mm (24mil)                                             Slot              4         PTH        0.00mm (0.00inch)
+T5      0.9mm (35mil)                                             Round             5         PTH        0.00mm (0.00inch)
+T6      0.35mm (14mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+T7      0.4mm (16mil)                                             Round             2         NPTH       0.00mm (0.00inch)
+T8      0.9mm (35mil)                                             Round             2         NPTH       0.00mm (0.00inch)
+T9      0.99mm (39mil)                                            Round             12        NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              708
+Layer Pair : 1-Top to 2-GND
+ASCII RoundHoles File : Control_Board_Model_C204-RoundHoles.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             1         PTH        0.00mm (0.00inch)
+T2      0.25mm (10mil)                                            Round             231       PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              232
+Layer Pair : 7-GND to 8-Bottom
+ASCII RoundHoles File : Control_Board_Model_C204-RoundHoles.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      0.25mm (10mil)                                            Round             258       PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              258
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1198
+
+Total Processing Time (hh:mm:ss) : 00:00:01
